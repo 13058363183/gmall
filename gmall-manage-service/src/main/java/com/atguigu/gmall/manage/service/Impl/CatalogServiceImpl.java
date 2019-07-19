@@ -23,7 +23,7 @@ public class CatalogServiceImpl implements CatalogService{
 
     @Override
     public List<PmsBaseCatalog1> getCatalog1() {
-        return pmsBaseCatalog1Mapper.getAll();
+        return pmsBaseCatalog1Mapper.selectAll();
     }
 
     @Override

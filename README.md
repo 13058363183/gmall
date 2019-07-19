@@ -14,8 +14,21 @@ user.gmall.com
 #具体端口号群
 user-service 8070
 user-web 8080
+
 manage-web 8081
 manage-service 8071
+
 item-web 8082
+
 search-web 8083
 search-service 8073
+
+cart-web 8084
+cart-service 8074
+
+
+passport-web 8085 认证中心(未创建)
+passport-service 8075 (未创建)
+
+order-web 8086 订单系统
+order-service 8076 
