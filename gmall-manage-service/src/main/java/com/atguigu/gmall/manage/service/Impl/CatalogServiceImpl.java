@@ -7,7 +7,7 @@ import com.atguigu.gmall.bean.PmsBaseCatalog3;
 import com.atguigu.gmall.manage.mapper.PmsBaseCatalog1Mapper;
 import com.atguigu.gmall.manage.mapper.PmsBaseCatalog2Mapper;
 import com.atguigu.gmall.manage.mapper.PmsBaseCatalog3Mapper;
-import com.atguigu.gmall.service.CatalogService;
+import com.atguigu.gmall.payment.service.CatalogService;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
